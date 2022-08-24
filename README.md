@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 My name is Thibo De Reu. I'm 19 years old and currently studying applied informatics @HoGent.
+
 In my free time I'm a photographer and drone pilot. I also love to work at side-projects.
 
 ### Take a look at my stats 👀
